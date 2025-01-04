@@ -3,6 +3,7 @@ import json
 import os
 
 def SelectionUI():
+    os.system('cls')
     print('''
 
     ___                  _      _                  ___ _           _   _           _   
@@ -114,7 +115,7 @@ def Admin():
     elif choice == 3:
         Append_random_responses() 
     elif choice == 4:
-        print("Thank You for Conf") 
+        print("Thank You for Configuration") 
    
 
 
