@@ -1,0 +1,31 @@
+{
+    "keywords": {
+        "coffee": "The campus coffee bar is open from 8 AM to 6 PM",
+        "library": "The library is open 24/7 for all students",
+        "courses": "We offer a variety of courses. You can find more details on our website",
+        "sports": "The sports center is open from 6 AM to 10 PM",
+        "fees": "The fee is hella expensive",
+        "test": "lmao nice one",
+        "alu": "hehe",
+        "haha": "f"
+    },
+    "jokes": [
+        "Why do programmers prefer dark mode? Because light attracts bugs!",
+        "How many programmers does it take to change a light bulb? None. That\u00e2\u20ac\u2122s a hardware problem.",
+        "Why don\u00e2\u20ac\u2122t skeletons fight each other? They don\u00e2\u20ac\u2122t have the guts!",
+        "What did the ocean say to the beach? Nothing, it just waved.",
+        "Why was the equal sign so humble? Because it knew it wasn\u00e2\u20ac\u2122t less than or greater than anyone else!",
+        "Why was six afraid of seven? Because seven eight nine.",
+        "Why don\u00e2\u20ac\u2122t elephants use computers? They\u00e2\u20ac\u2122re afraid of the mouse!",
+        "What do you call a bear with no teeth? A gummy bear!",
+        "The is good",
+        "HAHAHAHAHA",
+        "Lmao"
+    ],
+    "random_responses": [
+        "That's interesting! Can you tell me more?",
+        "I'm not sure about that. Could you clarify?",
+        "Hmm, let me think about it.",
+        "Could you rephrase the question?"
+    ]
+}
