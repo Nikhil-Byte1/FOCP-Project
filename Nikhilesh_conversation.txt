@@ -1,0 +1,15 @@
+Conversation between Nikhilesh and Agent Human - 2025-01-16 21:07:40:
+2025-01-16 21:07:40 - Nikhilesh: hello human
+2025-01-16 21:07:40 - Human: Hello, Nikhilesh! To process further, you may type 'help' to know more about the keywords
+2025-01-16 21:07:40 - Nikhilesh: yes please help me
+2025-01-16 21:07:40 - Human: You can type what you would like to ask such as fees, location, courses and all
+2025-01-16 21:07:40 - Nikhilesh: oh? i would like to know the fees of this university
+2025-01-16 21:07:40 - Human: Hi!! How are you doing? and The fees structure ranges from 10 lakh to 20 lakh depending on the courses you picked
+2025-01-16 21:07:40 - Nikhilesh: what about the courses
+2025-01-16 21:07:40 - Human: We offer a variety of courses, Nikhilesh. Check our website www.PoppletonUniversity.com for the full list!
+2025-01-16 21:07:40 - Nikhilesh: and final exams?
+2025-01-16 21:07:40 - Human: Final exams are typically held at the end of each semester, Nikhilesh. You can find the exam schedule on the student portal
+2025-01-16 21:07:40 - Nikhilesh: what about the attendance
+2025-01-16 21:07:40 - Human: Your attendance is tracked through the student portal, Nikhilesh. If you need an attendance certificate, please contact your department
+2025-01-16 21:07:40 - Nikhilesh: hm
+2025-01-16 21:07:40 - Disconnected!
