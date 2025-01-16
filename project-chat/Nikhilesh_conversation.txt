@@ -13,3 +13,16 @@ Conversation between Nikhilesh and Agent Human - 2025-01-16 21:07:40:
 2025-01-16 21:07:40 - Human: Your attendance is tracked through the student portal, Nikhilesh. If you need an attendance certificate, please contact your department
 2025-01-16 21:07:40 - Nikhilesh: hm
 2025-01-16 21:07:40 - Disconnected!
+Conversation between Nikhilesh and Agent Human - 2025-01-16 22:02:50:
+2025-01-16 22:02:50 - Nikhilesh: hello human!
+2025-01-16 22:02:50 - Human: Hello, Nikhilesh! To process further, you may type 'help' to know more about the keywords
+2025-01-16 22:02:50 - Nikhilesh: i would like to know the location.
+2025-01-16 22:02:50 - Human: We are currently located at the Thaphathali, Kathmandu 
+2025-01-16 22:02:50 - Nikhilesh: oh great and what about the courses?
+2025-01-16 22:02:50 - Human: We offer a variety of courses, Nikhilesh. Check our website www.PoppletonUniversity.com for the full list!
+2025-01-16 22:02:50 - Nikhilesh: and sports?
+2025-01-16 22:02:50 - Human: The sports center is open from 6 AM to 10 PM. Best place to break a sweat, Nikhilesh!
+2025-01-16 22:02:50 - Nikhilesh: thanks
+2025-01-16 22:02:50 - Human: Always here to help!
+2025-01-16 22:02:50 - Nikhilesh: bye
+2025-01-16 22:02:50 - Disconnected!

@@ -23,7 +23,7 @@ def SelectionUI_Main():
     print(f"\n\033[0;36mHello {User}! How can I assist you today?\033[0m")
     print(f"\033[0;36mYou're now chatting with {agent_name}.\033[0m\n")
 
-    responses = load_responses()
+    responses = read_response_file()
     conversation = []
 
     # Generate a random number for disconnect
@@ -44,7 +44,7 @@ def Available_agents():
     return random.choice(agents)
 
 
-def load_responses():
+def read_response_file():
     try:
         with open("responses.json", "r") as file:
             return json.load(file)
@@ -75,7 +75,7 @@ def disconnect_agent(user, agent, conversation):
     if reconnect == "y":
         conversation.append("\nReconnected Successfully!\n")
         record_conversation(user, agent, conversation)
-        reconnect_session(user, load_responses())  
+        reconnect_session(user, read_response_file())  
     else:
         print(f"\033[1;33m{agent}: Have a great day, {user}! Goodbye!\033[0m")
 
@@ -162,7 +162,7 @@ def Admin():
 
 
 def Append_keywords():
-    responses = load_responses()
+    responses = read_response_file()
     new_keyword = input("\033[1;32mEnter the new keyword: \033[0m").lower()
     new_reply = input("\033[1;32mEnter the reply for this keyword: \033[0m")
 
@@ -177,7 +177,7 @@ def Append_keywords():
 
 
 def Append_jokes():
-    responses = load_responses()
+    responses = read_response_file()
     new_jokes = input("\033[1;32mEnter the joke you like to add: \033[0m")
     responses["jokes"].append(new_jokes)
     print(f"\033[1;32mJoke added successfully: {new_jokes}\033[0m")
@@ -187,7 +187,7 @@ def Append_jokes():
 
 
 def Append_random_responses():
-    responses = load_responses()
+    responses = read_response_file()
     new_random_responses = input("\033[1;32mEnter the random response you like to add: \033[0m")
     responses["random_responses"].append(new_random_responses)
     print(f"\033[1;32mRandom Response added successfully: {new_random_responses}\033[0m")
